@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "Alura.LeilaoOnline.Core": {
+      "commandName": "Executable"
+    }
+  }
+}

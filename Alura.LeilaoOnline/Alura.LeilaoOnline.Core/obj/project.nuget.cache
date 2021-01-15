@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UD40kEq/2H1mB5PhoFpkm3/gKM5/orSLLzK3wKO4u3UjxTgwbbB6MyVnJnlZ/6BTWfFiwDemfWt2q1059IyHzA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T-Gamer\\source\\repos\\Alura.LeilaoOnline\\Alura.LeilaoOnline.Core\\Alura.LeilaoOnline.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
